@@ -1,4 +1,4 @@
-# Compose.AI Frontend Takehome Test - Inline Text Command
+# Compose.AI Frontend Takehome Test - Inline Text Command(tip working only for "outline")
 
 See https://docs.google.com/document/d/1Or0VUKzZ-k_hUn-aOApe8rrPFs0hThXIG-gRFx7dMiM for instructions.
 
