@@ -1,0 +1,14 @@
+.tooltip {
+  top: 175px !important;
+  width: 199px;
+  height: 136px;
+  padding: 8px 12px;
+  border-radius: 8px;
+  background-color: #fff;
+  font-family: Inter-Medium, sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  color: var(--gray-900);
+  text-align: left;
+  box-shadow: 2px 3px 9px 3px #10182814;
+}

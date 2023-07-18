@@ -1,0 +1,26 @@
+footer {
+  display: flex;
+  align-items: center;
+  height: 60px;
+  width: 100%;
+  padding: 14px 16px 18px 18px;
+  column-gap: 8px;
+  border-top: 1px solid var(--gray-200);
+}
+
+footer .text {
+  font-family: Inter-Medium, sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: var(--gray-900);
+}
+
+.zapFastIcon {
+  width: 20px;
+  height: 20px;
+}
+
+.arrowIcon {
+  margin-left: auto;
+  cursor: pointer;
+}

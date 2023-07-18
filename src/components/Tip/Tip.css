@@ -1,0 +1,57 @@
+.tip {
+  display: flex;
+  padding: 18px 8px 18px 10px;
+  margin-top: 14px;
+  align-items: flex-start;
+  align-self: stretch;
+  height: 100%;
+  flex-direction: column;
+  gap: 8px;
+  border-top: 1px solid var(--gray-200);
+}
+
+.tag {
+  display: flex;
+  padding: 2px 8px;
+  align-items: center;
+  border-radius: 16px;
+  background-color: var(--primary-50);
+  mix-blend-mode: multiply;
+  color: var(--primary-700);
+  font-family: Inter-Medium, sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+}
+
+.description {
+  margin-left: 7px;
+  color: var(--gray-900);
+  font-family: Inter-Medium, sans-serif;
+  font-size: 12px;
+  line-height: 20px;
+  text-align: left;
+}
+
+.submit {
+  display: flex;
+  align-items: center;
+  column-gap: 6px;
+  color: var(--gray-600);
+  font-family: Inter-Medium, sans-serif;
+  line-height: 20px;
+  margin-left: 7px;
+}
+
+.submit .text {
+  font-size: 12px;
+}
+
+.submit .button {
+  display: flex;
+  padding: 2px 4px;
+  border-radius: 4px;
+  border: 1px solid var(--gray-100);
+  background: var(--gray-50);
+  mix-blend-mode: multiply;
+  font-size: 14px;
+}

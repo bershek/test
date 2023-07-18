@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Inter-Medium";
+  src: local("Inter-ExtraBold"),
+  url("../assets/inter-fonts/static/Inter-Medium.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: "Inter-Regular";
+  src: local("Inter-Regular"),
+  url("../assets/inter-fonts/static/Inter-Regular.ttf") format("truetype");
+  font-style: normal;
+  font-weight: normal;
+}
